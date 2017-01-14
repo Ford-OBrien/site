@@ -7,4 +7,4 @@ It's a great site, but horrible hosting. The plan is to:
 	* This means a new Hugo theme - though all the code is already there, so it's just a matter of migrating
 3. DNS/Registry - Switch to Namecheap?
 
-Also -- Quick thank you to (https://github.com/spf13/)[@spf13 (Steve Francia)] for making (http://gohugo.io)[Hugo].
+Also -- Quick thank you to [https://github.com/spf13/](@spf13 (Steve Francia)) for making [http://gohugo.io](Hugo).
